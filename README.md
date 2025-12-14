@@ -1,4 +1,4 @@
-# Data Science Assignment - Adithya
+# Data Science Sentiment Analysis - Adithya
 
 ## Project Structure
 - `notebooks/`: Contains the analysis notebook (`notebook_1.ipynb`).
